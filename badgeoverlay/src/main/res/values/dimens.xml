@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wfq_bo_badge_radius">4dp</dimen>
+    <dimen name="wfq_bo_badge_with_text_radius">8dp</dimen>
+
+    <dimen name="wfq_badge_long_text_horizontal_padding">4dp</dimen>
+
+    <dimen name="wfq_badge_text_size">10sp</dimen>
+</resources>
